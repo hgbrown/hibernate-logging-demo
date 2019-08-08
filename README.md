@@ -37,7 +37,7 @@ From the above, you can see how many rows were returned as well as how long the 
 You should always check that the number of statements executed matches your expectation since this could show inefficient implementations.
 
 
-[Session Metrics Example](docs/session-metrics.png)
+[Session Metrics Example](https://github.com/hgbrown/hibernate-logging-demo/blob/master/docs/session-metrics.png)
 
 ## More logging configuration worth noting
 
